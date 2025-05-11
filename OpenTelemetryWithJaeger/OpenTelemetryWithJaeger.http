@@ -1,0 +1,6 @@
+@OpenTelemetryWithJaeger_HostAddress = http://localhost:5246
+
+GET {{OpenTelemetryWithJaeger_HostAddress}}/trace-me/
+Accept: application/json
+
+###

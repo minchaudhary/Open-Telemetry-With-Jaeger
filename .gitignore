@@ -1,0 +1,6 @@
+/OpenTelemetryWithJaeger/obj
+/OpenTelemetryWithJaeger/bin
+/.vs
+*.csproj.user
+*.user
+*.suo
